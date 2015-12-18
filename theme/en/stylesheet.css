@@ -1,0 +1,51 @@
+/* EN Language Pack */
+.imageset.icon_contact_pm {
+	background-image: url("./icon_contact_pm.png");
+	padding-left: 28px;
+	padding-top: 20px;
+}
+.imageset.icon_post_edit {
+	background-image: url("./icon_post_edit.png");
+	padding-left: 42px;
+	padding-top: 20px;
+}
+.imageset.icon_post_quote {
+	background-image: url("./icon_post_quote.png");
+	padding-left: 54px;
+	padding-top: 20px;
+}
+.imageset.icon_user_online {
+	background-image: url("./icon_user_online.gif");
+	padding-left: 58px;
+	padding-top: 58px;
+}
+.imageset.button_pm_forward {
+	background-image: url("./button_pm_forward.gif");
+	padding-left: 100px;
+	padding-top: 30px;
+}
+.imageset.button_pm_new {
+	background-image: url("./button_pm_new.gif");
+	padding-left: 100px;
+	padding-top: 30px;
+}
+.imageset.button_pm_reply {
+	background-image: url("./button_pm_reply.gif");
+	padding-left: 100px;
+	padding-top: 30px;
+}
+.imageset.button_topic_locked {
+	background-image: url("./button_topic_locked.gif");
+	padding-left: 100px;
+	padding-top: 30px;
+}
+.imageset.button_topic_new {
+	background-image: url("./button_topic_new.gif");
+	padding-left: 100px;
+	padding-top: 30px;
+}
+.imageset.button_topic_reply {
+	background-image: url("./button_topic_reply.gif");
+	padding-left: 100px;
+	padding-top: 30px;
+}
